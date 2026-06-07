@@ -1,5 +1,5 @@
 
-# Hi, I'm Brandon 👋
+# Hi, I'm Brandon L.D. Govender👋
 
 ## 📊 Business Intelligence Analyst
 
@@ -34,6 +34,7 @@ Workforce analytics dashboard analyzing attrition, demographics, salary distribu
 
 ### 🌍 [World Bank BI Analysis](https://github.com/BLDG9007/worldbank-bi-analysis)
 Economic analysis dashboard exploring GDP performance, growth trends, unemployment, and country-level comparisons.
+
 ---
 
 ## 🎯 Current Focus
